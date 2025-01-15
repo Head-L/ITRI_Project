@@ -9,3 +9,4 @@ Watch my [demo_video]()
 ## Project Source Code:
 * [Poker Game]()
  * animation & game designing
+* [Presentation](https://docs.google.com/presentation/d/15HltxWcCM_46OdVgtTdNvUwjh-2LcI1t/edit?usp=drive_link&ouid=108172496132652049978&rtpof=true&sd=true)
